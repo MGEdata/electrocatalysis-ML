@@ -24,4 +24,4 @@ Based on the Sabatier principle,
      
 # Contact
 
-The data can are offered by wangxx: <wang@bcc.ac.cn>
+The data can be offered by wangxx: <wang@bcc.ac.cn>
