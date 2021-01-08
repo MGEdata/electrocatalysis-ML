@@ -1,8 +1,5 @@
 # Electrocatalysis-ML
 
-<div align="center">
-  <img alt="GVP" src="https://github.com/MGEdata/electrocatalysis-ML/blob/master/img.jpg?raw=true">
-</div>
 
 Electrocatalytic integration framework
 
